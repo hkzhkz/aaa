@@ -1,0 +1,411 @@
+@charset 'UTF-8';
+/* 导航 */
+.dao{	height: 39px;
+			border-bottom: 1px solid #E8E8E8;
+	}
+.dao img{	margin-top: 12px;
+					margin-right: 21px;
+					vertical-align: bottom;
+	}
+.dao a{	font-size: 12px;
+				color: #4C4C4C;
+	}
+.dao .left{	vertical-align: bottom;
+						display: inline-block;
+	}
+.dao .left span{	font-size: 12px;
+									margin: 0 5px;
+	}
+.dao .r{	float: right;
+					margin-top: 14px;
+	}
+.dao .r span{	margin-left: 30px;
+	}
+
+/* bananr图 */
+.bananr{	margin-bottom: 30px;
+					width: 100%;
+	}
+
+/* 内容 1*/
+.nr1{	height: 800px;
+	}
+.nr1 .left{	widows: 530px;
+						display: inline-block;
+	}
+.nr1 .left .xd{	height: 44px;
+								width: 530px;
+								border-bottom: 1px solid #6C6C6C;
+								margin-top: 12px;
+
+
+	}
+.nr1 .left .xd a{	font-size: 12px;
+									color: #009E47;
+									line-height: 44px;
+
+	}
+.nr1 .left .xd span{	color: #F5F5F5;
+											font-size: 12px;
+											margin: 0 4px;
+	}
+.nr1 .left h5{	color: #009E47;
+								font-size: 14px;
+								margin-top: 27px;
+	}
+.nr1 .left h3{	font-size: 24px;
+								color: #000000;
+								margin-top: 7px;
+								margin-bottom: 12px;
+	}
+.nr1 .left .l1 li{	font-size: 14px;
+										color: #000000;
+										line-height: 28px;
+	}
+.nr1 .left .l1 span{	color: #656565;
+	}
+.nr1 .left .l2{	margin-top: 35px;
+								display: inline-block;
+	}
+.nr1 .left .l2 li{	color: #2B2B2B;
+										font-size: 14px;
+										background: url('../img/kuai.gif')no-repeat left center;
+										padding-left: 13px;
+										line-height: 28px;
+	}
+.nr1 .left .l3{	display: inline-block;
+								color: #606060;
+								font-size: 12px;
+								line-height: 28px;
+								margin-left: 131px;
+	}
+.nr1 .right{	float: right;
+							width: 410px;
+							margin-top: 30px;
+							position: relative;
+	}
+.nr1 .right span{	color: #009D47;
+	}
+.nr1 .right .d{	margin-left: 10px;
+								font-size: 12px;
+	}
+.nr1 .right .d1{	font-size: 12px;
+									text-align: center;
+									margin-top: 10px;
+									margin-bottom: 15px;
+	}
+.nr1 .right h5{	text-align: center;
+								height: 46px;
+								margin-top: -20px;
+								vertical-align: middle;
+	}
+.nr1 .right .tu1{	width: 410px;
+									height: 266px;
+									position: relative;
+									margin-bottom: 12px;
+	}
+.nr1 .right .tu1 p{	width: 100%;
+										height: 42px;
+										background-color: rgba(0, 0, 0, 0.6);
+										position: absolute;
+										bottom: 0;left: 0;
+										z-index: 2;
+	}
+.nr1 .right .tu1 span{	color: #FFFFFF;
+												line-height: 42px;
+												margin-left: 14px;
+												font-size: 18px;
+	}
+.nr1 .right .tu1 div{	display: inline-block;
+											position: absolute;
+											right: 10px;bottom: 15px;
+											z-index: 3;
+	}
+.nr1 .right .tu1 a{	width: 20px;
+										height: 5px;
+										display: inline-block;
+										background-color: #000000;
+	}
+.nr1 .right .tu1 a:hover{	background-color: #00A94F;
+	}
+.nr1 .right .tu2{	width: 210px;
+									height: 131px;
+									position: relative;
+	}
+.nr1 .right .tu2 p{	position: absolute;
+										top: 10px;left: 10px;
+										font-size: 22px;
+										color: #FFFFFF;
+	}
+.nr1 .right .tu3{	width: 210px;
+									height: 132px;
+									position: relative;
+									margin-top: 6px;
+	}
+.nr1 .right .tu3 p{	position: absolute;
+										top: 10px;left: 10px;
+										font-size: 22px;
+										color: #FFFFFF;
+	}
+.nr1 .right .tu4{	width: 195px;
+									height: 269px;
+									position: absolute;
+									bottom: 0;right: 0;
+	}
+.nr1 .right .tu4 p{	position: absolute;
+										top: 10px;left: 10px;
+										font-size: 22px;
+										color: #FFFFFF;
+	}
+
+/* 内容2 */
+.nr2{	width: 100%;
+			height: 260px;
+			background-color: #F5F5F5;
+	}
+.nr2 .jz{	position: relative;
+	}
+.nr2 .jz .left{	width: 530px;
+								position: relative;
+	}
+.nr2 .jz .left h4{	font-size: 24px;
+										color: #097B25;
+										position: absolute;
+										top: 34px;left: 0;
+	}
+.nr2 .jz .left .yao{	position: absolute;
+											top: 70px;left: 0;
+	}
+.nr2 .jz .left h5{	position: absolute;
+										top: 107px;left: 154px;
+										font-size: 18px;
+	}
+.nr2 .jz .left p{	position: absolute;
+									top: 140px;left: 154px;
+									font-size: 12px;
+									color: #909090;
+	}
+.nr2 .jz .left .zui1{	position: absolute;
+											top: 158px;left: 348px;
+											width: 69px;
+											height: 24px;
+	}
+.nr2 .jz .left .zui1 p{	position: absolute;
+												left: 13px;top: 4px;
+												font-size: 12px;
+												color: #FFFFFF;
+	}
+.nr2 .jz .left .zui2{	position: absolute;
+											top: 193px;left: 348px;
+											width: 69px;
+											height: 24px;
+	}
+.nr2 .jz .left .zui2 p{	position: absolute;
+												left: 13px;top: 4px;
+												font-size: 12px;
+												color: #FFFFFF;
+	}
+.nr2 .jz .left .shuo{	position: absolute;
+											left: 436px;top: 195px;
+											width: 50px;
+											height: 13px;
+	}
+.nr2 .jz .left .shuo p{	position: absolute;
+												left: 22px;top: 0;
+												font-size: 12px;
+												color: #CFCFCF;
+	}
+.nr2 .jz .right{	width: 410px;
+									height: 224px;
+									position: absolute;
+									top: 14px;right: 0;
+	}
+
+/* 内容3 */
+.nr3{	height: 434px;
+			position: relative;
+	}
+.nr3 h2{	font-size: 38px;
+					color: #097B25;
+					line-height: 114px;
+					display: inline-block;
+	}
+.nr3 p{	color: #808080;
+				font-size: 22px;
+				display: inline-block;
+	}
+.nr3 ul li{	width: 182px;
+						height: 320px;
+						position: absolute;
+	}
+.nr3 ul li h5{	width: 100%;
+								height: 60px;
+								background-color: #2B2B2B;
+	}
+.nr3 ul li h5 span{	font-size: 16px;
+										color: #FFFFFF;
+										text-align: center;
+										position: absolute;
+										top: 10px;right: 22px;
+										line-height: 22px;
+	}
+.nr3 ul li p{	font-size: 12px;
+							color: #656565;
+							line-height: 22px;
+							position: absolute;
+							left: 17px;top: 80px;
+	}
+.nr3 ul li p span{	color: #097B25;
+	}
+.nr3 ul li img{	position: absolute;
+								bottom: 0;left: 0;
+	}
+.nr3 ul .tu1{	position: absolute;
+							left: 0;bottom: 0;
+	}
+.nr3 ul .tu2{	position: absolute;
+							left: 204px;bottom: 0;
+	}
+.nr3 ul .tu3{	position: absolute;
+							left: 408px;bottom: 0;
+	}
+.nr3 ul .tu4{	position: absolute;
+							left: 612px;bottom: 0;
+	}
+.nr3 ul .tu5{	position: absolute;
+							right: 0;bottom: 0;
+	}
+
+/* 内容4 */
+.nr4{	height: 600px;
+			position: relative;
+	}
+.nr4 h2{	font-size: 38px;
+					color: #097B25;
+					position: absolute;
+					top: 70px;left: 0;
+	}
+.nr4 p{	font-size: 22px;
+				color: #808080;
+				position: absolute;
+				top: 85px;left: 160px;
+	}
+.nr4 img{	position: absolute;
+					left: 0;bottom: 0;
+	}
+
+/* 内容5 */
+.nr5{	height: 520px;
+			width: 100%;
+			margin-top: 45px;
+			background: url('../img/neirongwu.gif');
+	}
+.nr5 .jz{	font-size: 0;
+					position: relative;
+	}
+.nr5 .jz a{	width: 122px;
+						height: 37px;
+						background-color: #000000;
+						font-size: 24px;
+						display: inline-block;
+						margin-top: 80px;
+	}
+
+.nr5 .jz a span{	color: #FFFFFF;
+									margin-left: 40px;
+	}
+.nr5 .jz ul{	width: 500px;
+							height: 245px;
+							background-color: rgba(0, 0, 0, 0.3);
+							margin-top: 50px;
+							padding-top: 25px;
+	}
+.nr5 .jz ul li{	font-size: 14px;
+								color: #FFFFFF;
+								line-height: 28px;
+								background: url('../img/kuai.gif') no-repeat 20px center;
+								padding-left: 34px;
+	}
+.nr5 .jz .t1{	position: absolute;
+							top: 167px;	right: 260px;
+	}
+.nr5 .jz .t2{	position: absolute;
+							top: 307px;	right: 260px;
+	}
+.nr5 .jz .t3{	position: absolute;
+							top: 167px;	right: 0px;
+	}
+
+/* 内容6 */
+.nr6{	height: 483px;
+			position: relative;
+	}
+.nr6 h2{	font-size: 38px;
+					color: #097B25;
+					position: absolute;
+					left: 0;top: 76px;
+	}
+.nr6 p{	font-size: 22px;
+				color: #808080;
+				position: absolute;
+				left: 200px;top: 88px;
+	}
+.nr6 .left{	width: 288px;
+						height: 330px;
+						background-color: #F6F6F6;
+						position: absolute;
+						left: 0;top: 153px;
+	}
+.nr6 .left img{	position: absolute;
+								top: 30px;left: 30px;
+	}
+.nr6 .left p{	font-size: 14px;
+							color: #000000;
+							position: absolute;
+							left: 46px;top: 292px;
+	}
+.nr6 img{	position: absolute;
+					top: 153px;left: 288px;
+	}
+.nr6 .right{	width: 240px;
+							height: 330px;
+							position: absolute;
+							right: 0;top: 153px;
+							background-color: #097C25;
+	}
+.nr6 .right h5{	font-size: 18px;
+								color: #FFFFFF;
+								position: absolute;
+								top: 58px;left: 30px;
+	}
+.nr6 .right p{	font-size: 12px;
+								color: #FFFFFF;
+								position: absolute;
+								left: 30px;top: 88px;
+								line-height: 24px;
+								width: 183px;
+	}
+/* 底部 */
+.di{	height: 160px;
+			padding-top: 70px;
+	}
+.di li{	text-align: center;
+				font-size: 12px;
+				line-height: 22px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+.gwidth{	width: 1000px;
+					margin-left: auto;
+					margin-right: auto;
+	}
